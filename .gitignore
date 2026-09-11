@@ -1,0 +1,22 @@
+*.json
+*.sqlite
+*.qdstrm
+*.nsys-rep
+charts/
+__pycache__/
+.DS_Store
+
+# Results and logs
+DAY5_RESULTS.md
+git_log.txt
+
+# Animation code
+*.html
+export-animation.mjs
+node_modules/
+package.json
+package-lock.json
+
+# Exports
+exports/*
+!exports/*.mp4
